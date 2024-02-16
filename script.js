@@ -3122,5 +3122,5 @@ else if(matricula == '93987188715'){
         validacoes.classList.remove('displayNone');
         disciplinas.classList.add('displayNone');
     }
-    
+   
 }

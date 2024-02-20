@@ -384,6 +384,11 @@ else if(matricula == '88887359768'){
         for (i=0; i< document.getElementsByClassName('88887359768').length; i++)
             document.getElementsByClassName('88887359768')[i].classList.remove('displayNone');
     }
+else if(matricula == '88887359768'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - MARIA DO CARMO DE FIGUEIREDO CISNE';
+        for (i=0; i< document.getElementsByClassName('88887359768').length; i++)
+            document.getElementsByClassName('88887359768')[i].classList.remove('displayNone');
+    }
 else if(matricula == '12299794760'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - RAISSA LYRA DE PAIVA ALVES';
         for (i=0; i< document.getElementsByClassName('12299794760').length; i++)
@@ -418,6 +423,16 @@ else if(matricula == '04701149756'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - VIVIANY DIAS GANDRA';
         for (i=0; i< document.getElementsByClassName('04701149756').length; i++)
             document.getElementsByClassName('04701149756')[i].classList.remove('displayNone');
+    }
+else if(matricula == '04701149756'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - VIVIANY DIAS GANDRA';
+        for (i=0; i< document.getElementsByClassName('04701149756').length; i++)
+            document.getElementsByClassName('04701149756')[i].classList.remove('displayNone');
+    }
+else if(matricula == '02500681769'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - ADRIANA DE SOUZA CARVALHO';
+        for (i=0; i< document.getElementsByClassName('02500681769').length; i++)
+            document.getElementsByClassName('02500681769')[i].classList.remove('displayNone');
     }
 else if(matricula == '02500681769'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - ADRIANA DE SOUZA CARVALHO';
@@ -733,6 +748,11 @@ else if(matricula == '01208194739'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - MARCELLO SILVEIRA VIEIRA';
         for (i=0; i< document.getElementsByClassName('01208194739').length; i++)
             document.getElementsByClassName('01208194739')[i].classList.remove('displayNone');
+    }
+else if(matricula == '88887359768'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - MARIA DO CARMO DE FIGUEIREDO CISNE';
+        for (i=0; i< document.getElementsByClassName('88887359768').length; i++)
+            document.getElementsByClassName('88887359768')[i].classList.remove('displayNone');
     }
 else if(matricula == '88466914749'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - NADIA PINTO OMARI MATTOS';

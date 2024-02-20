@@ -2189,6 +2189,11 @@ else if(matricula == '08931303700'){
         for (i=0; i< document.getElementsByClassName('08931303700').length; i++)
             document.getElementsByClassName('08931303700')[i].classList.remove('displayNone');
     }
+else if(matricula == '92640923072'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FLAVIA TARGA MARTINS';
+        for (i=0; i< document.getElementsByClassName('92640923072').length; i++)
+            document.getElementsByClassName('92640923072')[i].classList.remove('displayNone');
+    }
 else if(matricula == '11840018712'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - GABRIELA LOPES CABRAL';
         for (i=0; i< document.getElementsByClassName('11840018712').length; i++)

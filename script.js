@@ -109,11 +109,6 @@ else if(matricula == '03665806712'){
         for (i=0; i< document.getElementsByClassName('03665806712').length; i++)
             document.getElementsByClassName('03665806712')[i].classList.remove('displayNone');
     }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
-    }
 else if(matricula == '04701149756'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - VIVIANY DIAS GANDRA';
         for (i=0; i< document.getElementsByClassName('04701149756').length; i++)
@@ -399,6 +394,11 @@ else if(matricula == '12299794760'){
         for (i=0; i< document.getElementsByClassName('12299794760').length; i++)
             document.getElementsByClassName('12299794760')[i].classList.remove('displayNone');
     }
+else if(matricula == '12299794760'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - RAISSA LYRA DE PAIVA ALVES';
+        for (i=0; i< document.getElementsByClassName('12299794760').length; i++)
+            document.getElementsByClassName('12299794760')[i].classList.remove('displayNone');
+    }
 else if(matricula == '12411249730'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - RODRIGO CASTRO FERREIRA DE MELLO';
         for (i=0; i< document.getElementsByClassName('12411249730').length; i++)
@@ -503,16 +503,6 @@ else if(matricula == '07475879739'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - ERICA CINDRA DE LIMA';
         for (i=0; i< document.getElementsByClassName('07475879739').length; i++)
             document.getElementsByClassName('07475879739')[i].classList.remove('displayNone');
-    }
-else if(matricula == '12987020708'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FELIPE ALMEIDA DE SOUSA';
-        for (i=0; i< document.getElementsByClassName('12987020708').length; i++)
-            document.getElementsByClassName('12987020708')[i].classList.remove('displayNone');
-    }
-else if(matricula == '12987020708'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FELIPE ALMEIDA DE SOUSA';
-        for (i=0; i< document.getElementsByClassName('12987020708').length; i++)
-            document.getElementsByClassName('12987020708')[i].classList.remove('displayNone');
     }
 else if(matricula == '92640923072'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FLAVIA TARGA MARTINS';
@@ -704,6 +694,16 @@ else if(matricula == '07896229714'){
         for (i=0; i< document.getElementsByClassName('07896229714').length; i++)
             document.getElementsByClassName('07896229714')[i].classList.remove('displayNone');
     }
+else if(matricula == '89438744720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - JORGE KENEDY ALMEIDA SILVA';
+        for (i=0; i< document.getElementsByClassName('89438744720').length; i++)
+            document.getElementsByClassName('89438744720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '89438744720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - JORGE KENEDY ALMEIDA SILVA';
+        for (i=0; i< document.getElementsByClassName('89438744720').length; i++)
+            document.getElementsByClassName('89438744720')[i].classList.remove('displayNone');
+    }
 else if(matricula == '08627124752'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - LUCIA HELENA GUIMARAES CARDOSO';
         for (i=0; i< document.getElementsByClassName('08627124752').length; i++)
@@ -824,16 +824,6 @@ else if(matricula == '22115927168'){
         for (i=0; i< document.getElementsByClassName('22115927168').length; i++)
             document.getElementsByClassName('22115927168')[i].classList.remove('displayNone');
     }
-else if(matricula == '08564323770'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - MARIEL PATRICIO DE OLIVEIRA JUNIOR';
-        for (i=0; i< document.getElementsByClassName('08564323770').length; i++)
-            document.getElementsByClassName('08564323770')[i].classList.remove('displayNone');
-    }
-else if(matricula == '08564323770'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - MARIEL PATRICIO DE OLIVEIRA JUNIOR';
-        for (i=0; i< document.getElementsByClassName('08564323770').length; i++)
-            document.getElementsByClassName('08564323770')[i].classList.remove('displayNone');
-    }
 else if(matricula == '00389228788'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - RAFAEL MOREIRA GUIMARAES';
         for (i=0; i< document.getElementsByClassName('00389228788').length; i++)
@@ -944,6 +934,41 @@ else if(matricula == '05682394747'){
         for (i=0; i< document.getElementsByClassName('05682394747').length; i++)
             document.getElementsByClassName('05682394747')[i].classList.remove('displayNone');
     }
+else if(matricula == '08564323770'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - MARIEL PATRICIO DE OLIVEIRA JUNIOR';
+        for (i=0; i< document.getElementsByClassName('08564323770').length; i++)
+            document.getElementsByClassName('08564323770')[i].classList.remove('displayNone');
+    }
+else if(matricula == '08564323770'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - MARIEL PATRICIO DE OLIVEIRA JUNIOR';
+        for (i=0; i< document.getElementsByClassName('08564323770').length; i++)
+            document.getElementsByClassName('08564323770')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
 else if(matricula == '03612773771'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - ADRIANA BRANCO CORREIA SOUTO';
         for (i=0; i< document.getElementsByClassName('03612773771').length; i++)
@@ -978,16 +1003,6 @@ else if(matricula == '05670472705'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - CLAUDINEA DE ARAUJO BATISTA';
         for (i=0; i< document.getElementsByClassName('05670472705').length; i++)
             document.getElementsByClassName('05670472705')[i].classList.remove('displayNone');
-    }
-else if(matricula == '12987020708'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FELIPE ALMEIDA DE SOUSA';
-        for (i=0; i< document.getElementsByClassName('12987020708').length; i++)
-            document.getElementsByClassName('12987020708')[i].classList.remove('displayNone');
-    }
-else if(matricula == '12987020708'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FELIPE ALMEIDA DE SOUSA';
-        for (i=0; i< document.getElementsByClassName('12987020708').length; i++)
-            document.getElementsByClassName('12987020708')[i].classList.remove('displayNone');
     }
 else if(matricula == '11840018712'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - GABRIELA LOPES CABRAL';
@@ -1039,10 +1054,15 @@ else if(matricula == '01863089730'){
         for (i=0; i< document.getElementsByClassName('01863089730').length; i++)
             document.getElementsByClassName('01863089730')[i].classList.remove('displayNone');
     }
-else if(matricula == '00389228788'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - RAFAEL MOREIRA GUIMARAES';
-        for (i=0; i< document.getElementsByClassName('00389228788').length; i++)
-            document.getElementsByClassName('00389228788')[i].classList.remove('displayNone');
+else if(matricula == '01863089730'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - MOACIR PORTO FERREIRA';
+        for (i=0; i< document.getElementsByClassName('01863089730').length; i++)
+            document.getElementsByClassName('01863089730')[i].classList.remove('displayNone');
+    }
+else if(matricula == '12411249730'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - RODRIGO CASTRO FERREIRA DE MELLO';
+        for (i=0; i< document.getElementsByClassName('12411249730').length; i++)
+            document.getElementsByClassName('12411249730')[i].classList.remove('displayNone');
     }
 else if(matricula == '04303703770'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - SERGIO RICARDO PEREIRA DE MATTOS';
@@ -1053,11 +1073,6 @@ else if(matricula == '04303703770'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - SERGIO RICARDO PEREIRA DE MATTOS';
         for (i=0; i< document.getElementsByClassName('04303703770').length; i++)
             document.getElementsByClassName('04303703770')[i].classList.remove('displayNone');
-    }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
     }
 else if(matricula == '14825047742'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - THAYNAN DA SILVA RAMOS';
@@ -1123,11 +1138,6 @@ else if(matricula == '10502293713'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - ERICA SILVA DE OLIVEIRA';
         for (i=0; i< document.getElementsByClassName('10502293713').length; i++)
             document.getElementsByClassName('10502293713')[i].classList.remove('displayNone');
-    }
-else if(matricula == '12987020708'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FELIPE ALMEIDA DE SOUSA';
-        for (i=0; i< document.getElementsByClassName('12987020708').length; i++)
-            document.getElementsByClassName('12987020708')[i].classList.remove('displayNone');
     }
 else if(matricula == '11840018712'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - GABRIELA LOPES CABRAL';
@@ -1203,11 +1213,6 @@ else if(matricula == '04303703770'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - SERGIO RICARDO PEREIRA DE MATTOS';
         for (i=0; i< document.getElementsByClassName('04303703770').length; i++)
             document.getElementsByClassName('04303703770')[i].classList.remove('displayNone');
-    }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
     }
 else if(matricula == '13814480708'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - WALLACE DA SILVA CARVALHO';
@@ -1374,16 +1379,6 @@ else if(matricula == '12411249730'){
         for (i=0; i< document.getElementsByClassName('12411249730').length; i++)
             document.getElementsByClassName('12411249730')[i].classList.remove('displayNone');
     }
-else if(matricula == '12411249730'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - RODRIGO CASTRO FERREIRA DE MELLO';
-        for (i=0; i< document.getElementsByClassName('12411249730').length; i++)
-            document.getElementsByClassName('12411249730')[i].classList.remove('displayNone');
-    }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
-    }
 else if(matricula == '14825047742'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - THAYNAN DA SILVA RAMOS';
         for (i=0; i< document.getElementsByClassName('14825047742').length; i++)
@@ -1514,11 +1509,6 @@ else if(matricula == '08705475775'){
         for (i=0; i< document.getElementsByClassName('08705475775').length; i++)
             document.getElementsByClassName('08705475775')[i].classList.remove('displayNone');
     }
-else if(matricula == '10250762730'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - GISELE TEIXEIRA SALEIRO';
-        for (i=0; i< document.getElementsByClassName('10250762730').length; i++)
-            document.getElementsByClassName('10250762730')[i].classList.remove('displayNone');
-    }
 else if(matricula == '07536195710'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - HELGA STEFANIA MARANHAO BODSTEIN';
         for (i=0; i< document.getElementsByClassName('07536195710').length; i++)
@@ -1644,6 +1634,11 @@ else if(matricula == '01641334703'){
         for (i=0; i< document.getElementsByClassName('01641334703').length; i++)
             document.getElementsByClassName('01641334703')[i].classList.remove('displayNone');
     }
+else if(matricula == '01641334703'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - REGINA LUCIA NAPOLITANO FELICIO FELIX BATISTA';
+        for (i=0; i< document.getElementsByClassName('01641334703').length; i++)
+            document.getElementsByClassName('01641334703')[i].classList.remove('displayNone');
+    }
 else if(matricula == '05682394747'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - ROBERTA ANDREA DOS SANTOS COLOMBO';
         for (i=0; i< document.getElementsByClassName('05682394747').length; i++)
@@ -1663,16 +1658,6 @@ else if(matricula == '16030802798'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEFANY CORDEIRO MARTORELLI';
         for (i=0; i< document.getElementsByClassName('16030802798').length; i++)
             document.getElementsByClassName('16030802798')[i].classList.remove('displayNone');
-    }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
-    }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
     }
 else if(matricula == '39878702812'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - VINICIUS COSTA BRANDAO';
@@ -1768,6 +1753,16 @@ else if(matricula == '10502293713'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - ERICA SILVA DE OLIVEIRA';
         for (i=0; i< document.getElementsByClassName('10502293713').length; i++)
             document.getElementsByClassName('10502293713')[i].classList.remove('displayNone');
+    }
+else if(matricula == '12987020708'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FELIPE ALMEIDA DE SOUSA';
+        for (i=0; i< document.getElementsByClassName('12987020708').length; i++)
+            document.getElementsByClassName('12987020708')[i].classList.remove('displayNone');
+    }
+else if(matricula == '12987020708'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FELIPE ALMEIDA DE SOUSA';
+        for (i=0; i< document.getElementsByClassName('12987020708').length; i++)
+            document.getElementsByClassName('12987020708')[i].classList.remove('displayNone');
     }
 else if(matricula == '11840018712'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - GABRIELA LOPES CABRAL';
@@ -1944,21 +1939,6 @@ else if(matricula == '16030802798'){
         for (i=0; i< document.getElementsByClassName('16030802798').length; i++)
             document.getElementsByClassName('16030802798')[i].classList.remove('displayNone');
     }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
-    }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
-    }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
-    }
 else if(matricula == '14825047742'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - THAYNAN DA SILVA RAMOS';
         for (i=0; i< document.getElementsByClassName('14825047742').length; i++)
@@ -2028,11 +2008,6 @@ else if(matricula == '05670472705'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - CLAUDINEA DE ARAUJO BATISTA';
         for (i=0; i< document.getElementsByClassName('05670472705').length; i++)
             document.getElementsByClassName('05670472705')[i].classList.remove('displayNone');
-    }
-else if(matricula == '05258471705'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - CRISTIANE QUEIROZ LEITE CARVALHO';
-        for (i=0; i< document.getElementsByClassName('05258471705').length; i++)
-            document.getElementsByClassName('05258471705')[i].classList.remove('displayNone');
     }
 else if(matricula == '00100477780'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - CRISTIANE VIEIRA VALENTE';
@@ -2228,11 +2203,6 @@ else if(matricula == '16030802798'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEFANY CORDEIRO MARTORELLI';
         for (i=0; i< document.getElementsByClassName('16030802798').length; i++)
             document.getElementsByClassName('16030802798')[i].classList.remove('displayNone');
-    }
-else if(matricula == '09374606720'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
-        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
-            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
     }
 else if(matricula == '39878702812'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - VINICIUS COSTA BRANDAO';
@@ -2499,6 +2469,11 @@ else if(matricula == '08705475775'){
         for (i=0; i< document.getElementsByClassName('08705475775').length; i++)
             document.getElementsByClassName('08705475775')[i].classList.remove('displayNone');
     }
+else if(matricula == '10250762730'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - GISELE TEIXEIRA SALEIRO';
+        for (i=0; i< document.getElementsByClassName('10250762730').length; i++)
+            document.getElementsByClassName('10250762730')[i].classList.remove('displayNone');
+    }
 else if(matricula == '11123487782'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - GUSTAVO LOURENCO GOMES PIRES';
         for (i=0; i< document.getElementsByClassName('11123487782').length; i++)
@@ -2584,6 +2559,11 @@ else if(matricula == '00389228788'){
         for (i=0; i< document.getElementsByClassName('00389228788').length; i++)
             document.getElementsByClassName('00389228788')[i].classList.remove('displayNone');
     }
+else if(matricula == '01641334703'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - REGINA LUCIA NAPOLITANO FELICIO FELIX BATISTA';
+        for (i=0; i< document.getElementsByClassName('01641334703').length; i++)
+            document.getElementsByClassName('01641334703')[i].classList.remove('displayNone');
+    }
 else if(matricula == '05682394747'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - ROBERTA ANDREA DOS SANTOS COLOMBO';
         for (i=0; i< document.getElementsByClassName('05682394747').length; i++)
@@ -2633,6 +2613,11 @@ else if(matricula == '75887878720'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - CLEUZA SANTOS FAUSTINO';
         for (i=0; i< document.getElementsByClassName('75887878720').length; i++)
             document.getElementsByClassName('75887878720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '05258471705'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - CRISTIANE QUEIROZ LEITE CARVALHO';
+        for (i=0; i< document.getElementsByClassName('05258471705').length; i++)
+            document.getElementsByClassName('05258471705')[i].classList.remove('displayNone');
     }
 else if(matricula == '05258471705'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - CRISTIANE QUEIROZ LEITE CARVALHO';
@@ -2744,11 +2729,6 @@ else if(matricula == '01863089730'){
         for (i=0; i< document.getElementsByClassName('01863089730').length; i++)
             document.getElementsByClassName('01863089730')[i].classList.remove('displayNone');
     }
-else if(matricula == '07149274730'){
-        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - NELSON CARLOS TAVARES JUNIOR';
-        for (i=0; i< document.getElementsByClassName('07149274730').length; i++)
-            document.getElementsByClassName('07149274730')[i].classList.remove('displayNone');
-    }
 else if(matricula == '79539718791'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - OSWALDO BORGES PERES';
         for (i=0; i< document.getElementsByClassName('79539718791').length; i++)
@@ -2793,6 +2773,46 @@ else if(matricula == '79539718791'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - OSWALDO BORGES PERES';
         for (i=0; i< document.getElementsByClassName('79539718791').length; i++)
             document.getElementsByClassName('79539718791')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
+    }
+else if(matricula == '05372850752'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - ADRIANO DE CARVALHO SILVA';
+        for (i=0; i< document.getElementsByClassName('05372850752').length; i++)
+            document.getElementsByClassName('05372850752')[i].classList.remove('displayNone');
+    }
+else if(matricula == '07149274730'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - NELSON CARLOS TAVARES JUNIOR';
+        for (i=0; i< document.getElementsByClassName('07149274730').length; i++)
+            document.getElementsByClassName('07149274730')[i].classList.remove('displayNone');
+    }
+else if(matricula == '09374606720'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - STEPHAN PINHEIRO FRANKENFELD';
+        for (i=0; i< document.getElementsByClassName('09374606720').length; i++)
+            document.getElementsByClassName('09374606720')[i].classList.remove('displayNone');
     }
 else if(matricula == '10583797717'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - CARLOS VINICIUS DE SOUZA HEGGEUDORN HERDY';
@@ -2958,6 +2978,11 @@ else if(matricula == '14820606719'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - DIEGO DE ANDRADE TEIXEIRA';
         for (i=0; i< document.getElementsByClassName('14820606719').length; i++)
             document.getElementsByClassName('14820606719')[i].classList.remove('displayNone');
+    }
+else if(matricula == '12987020708'){
+        nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - FELIPE ALMEIDA DE SOUSA';
+        for (i=0; i< document.getElementsByClassName('12987020708').length; i++)
+            document.getElementsByClassName('12987020708')[i].classList.remove('displayNone');
     }
 else if(matricula == '26677778835'){
         nomeTopo.innerHTML = 'Disciplinas do(a) Professor(a) - JORGE ALBERTO BACCARO NEVES';
